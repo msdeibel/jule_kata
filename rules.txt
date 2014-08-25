@@ -1,0 +1,48 @@
+JULE RULES
+==========
+Jule is a dice game for three or more players using three dice, an opaque dice shaker and
+thirteen markers (usually coasters).
+
+Each game consists of two phases:
+1. Distribution of the markers
+2. Return of the markers
+
+The last player to hold a marker loses.
+
+Markers are distributed (and collected) depending on the roll of the dice.
+
+In the distribution phase the highest roll defines the number of markers
+to be distributed. The player with the lowest roll receives the markers.
+
+In the return phase the player with most markers starts. In case two players
+have the same number of markers (and more than the remaining players) the
+one with the best reaction starts.
+
+Roll values (highest to lowest)
+-------------------------------
+
+Roll value		Name		Markers
+---------------------------------------------------
+111			Three		8
+421			Jule		7
+611 - 211		Hards		highest die
+666 - 222		Softs		3
+456, 345, 234, 123	Straight	2
+Combinations				1
+---------------------------------------------------
+
+Combinations represent the combined values of all three dice from highest to lowest, e.g.
+D1: 1
+D2: 5
+D3: 4
+has the value of 541
+
+In case a roll value has already been announced by a player all subsequent uses of this
+value are regarded as lower.
+
+The first player has a maximum of three rolls. She is allowed to reroll
+any of the dice in any of the rolls.
+Should she decide to complete her turn without using all three rolls, all subsequent
+players are limited to her number of rolls.
+In the first distribution round the starter is chosen at random. All following ones
+are started by the last person to receive a marker.
