@@ -1,0 +1,22 @@
+REAL WORLD EXTENSIONS
+=====================
+
+Some crazy things can happen with dice on a table and also in case the players
+had a beer or two.
+
+Once you got the Kata completed according to rules.txt think about how you could
+implement the following scenarios.
+
+1. In case a die falls off the table and hits the floor, the current player has
+   to pay a round. However, if he (or any other player) is quick enough to catch the
+   die, the game continous along the normal rules without a round on the dropper.
+2. In case there is more than one die in the shaker there is a slight chance that
+   the dice are stacked ("Tower"; one die on top of another) when the shaker is removed.
+   This gives the current player a free reroll of all dice that were in the shaker.
+   Three "Towers" in a row are another reason for a round. After that the game continous
+   along the normal rules.
+3. A "Three" in the first roll is a round. After that the game continous along the
+   normal rules
+4. On a rough table or with enough stuff on the table there is a chance that a die might
+   be stopped short in its movement and comes to a hold on one of the edges. The player
+   may reroll the die. Three in a row and you pay a round.
